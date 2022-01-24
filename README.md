@@ -1,6 +1,5 @@
 ### Hi there, I'm Martina <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=marti5ini&left_color=black&right_color=blue)
  
  **My profile in a nutshell**
 
