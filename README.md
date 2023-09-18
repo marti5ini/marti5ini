@@ -3,7 +3,7 @@
  
  **My profile in a nutshell**
 
-- 🔭 I’m currently working on Causality and XAI.
+- 🔭 I’m currently working on Causality, Fairness and XAI.
 - 👯 I’m looking to collaborate on any open source project!
 - 📫 How to reach me: martina.cinquini@phd.unipi.it
 - 👩🏽‍💻 Check my portfolio: https://marti5ini.github.io 
